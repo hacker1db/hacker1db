@@ -3,7 +3,5 @@ baseURL: "https://hacker1db.dev/"
 languageCode: "en-us"
 author: hacker1db
 twitter: hacker1db
+theme: newsroom
 
-module:
-  imports:
-    - path: github.com/onweru/newsroom
